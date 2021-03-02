@@ -1,0 +1,16 @@
+{
+	"name": "create_database",
+	"properties": {
+		"content": {
+			"query": "create database datasatpn\ngo",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"poolName": "Built-in",
+				"databaseName": "master"
+			}
+		},
+		"type": "SqlQuery"
+	}
+}
