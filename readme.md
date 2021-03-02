@@ -6,6 +6,6 @@
 
 
 
-Before running the scripts, upload to the linked blob storage files from [this repository](https://github.com/owid/covid-19-data/tree/master/public/data) in JSON format:
+Before running the scripts, upload to the linked blob storage files from [this repository](https://github.com/owid/covid-19-data/tree/master/public/data) in JSON format.
 
 
